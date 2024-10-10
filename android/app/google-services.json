@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21755505964",
+    "project_id": "wallet-e3dfd",
+    "storage_bucket": "wallet-e3dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21755505964:android:fc09a7159976cd3a9b5089",
+        "android_client_info": {
+          "package_name": "com.example.wallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcs2RA5aPcy4ceJ7QYoImZhJOd8AoETA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
